@@ -1,6 +1,6 @@
 # pc-control-node
 
-## Install
+## Installation
 
 ### 1. Get IFTTT Webhook key
 
